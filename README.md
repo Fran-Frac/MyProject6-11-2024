@@ -1,0 +1,1 @@
+This project is, I know it is, a project in which I have to prove I'm able to utilize git or at least it's basic funcions, like committing, pushing, merging and branching.
